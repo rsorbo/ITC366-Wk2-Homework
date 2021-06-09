@@ -8,7 +8,7 @@ namespace InchesToCentimetersInteractive
         {
 
             //Gathering the input
-            System.Console.WriteLine("Exercise 1");
+            System.Console.WriteLine("Exercise 2");
             System.Console.WriteLine("Please provide your inches");
             string input = Console.ReadLine();
 
@@ -19,18 +19,8 @@ namespace InchesToCentimetersInteractive
             //Convert the input to usable data
             double convertCM = inch * CENTIMETERSPERINCH;
 
-
-            //prepping the output
-            //if statement is being used to help display the proper format of the singular or plural "inch"
-            if (inch > 1)
-            {
-                System.Console.WriteLine($"{inch} inches is {convertCM} centimeters");
-            }
-
-            else
-            {
-                System.Console.WriteLine($"{inch} inch is {convertCM} centimeters");
-            }
+            //Output
+            Console.WriteLine($"{inch} inches is {convertCM} centimeters.");
         }
     }
 }

@@ -6,7 +6,7 @@ namespace InchesToCentimeters
     {
         static void Main(string[] args)
         {
-            
+
             //Declare constant that inches are 2.54cm
             //Establish variable for inches
             const double CENTIMETERSPERINCH = 2.54;
