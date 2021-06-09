@@ -6,7 +6,19 @@ namespace InchesToCentimeters
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
+            //Declare constant that inches are 2.54cm
+            //Establish variable for inches
+            const double CENTIMETERSPERINCH = 2.54;
+            double inch = 5;
+
+            //Perform the calculation
+            double convertInch = inch * CENTIMETERSPERINCH;
+
+            //Display the output
+            Console.WriteLine("Exercise 1");
+            Console.WriteLine($"{inch} inches is {convertInch} centimeters.");
+
         }
     }
 }
