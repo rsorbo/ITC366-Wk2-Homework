@@ -13,7 +13,8 @@ namespace Exercise_5
             //I hope these comments are helpful -- let me know if you have questions.
 
             string name;
-            string firstString, secondSting;
+            //You're not using secondSting anywhere else -- do you need it?
+            string firstString; //, secondSting;
             int first, second, product;
             //Syntax missing "Console." also missing a closing quotation.
             Console.Write("Enter your name >> ");

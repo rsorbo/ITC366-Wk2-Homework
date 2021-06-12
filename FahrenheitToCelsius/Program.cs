@@ -16,10 +16,8 @@ namespace FahrenheitToCelsius
             //Math.Round(Fahrenheit, 1);
 
             //Perform the calculation
-            //This is really clunky. I tried doing these steps on one line and the results never came out correctly.
-            double convertCelsius = (Fahrenheit - 32);
-            double convertCelsius2 = convertCelsius * (5);
-            double Celsius = convertCelsius2 / 9;
+            double Celsius = (Fahrenheit - 32) * 5 /9;
+            
            
            //Display the results
             Console.WriteLine($"{Fahrenheit} F is {Math.Round(Celsius,1)} C.");

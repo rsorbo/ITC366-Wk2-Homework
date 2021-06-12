@@ -10,7 +10,7 @@ namespace InchesToCentimeters
             //Declare constant that inches are 2.54cm
             //Establish variable for inches
             const double CENTIMETERSPERINCH = 2.54;
-            double inch = 5;
+            double inch = 12;
 
             //Perform the calculation
             double convertInch = inch * CENTIMETERSPERINCH;

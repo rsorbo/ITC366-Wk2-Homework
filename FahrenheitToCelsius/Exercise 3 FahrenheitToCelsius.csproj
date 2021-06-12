@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\InchesToCentimeters\InchesToCentimeters.csproj" />
+    <ProjectReference Include="..\InchesToCentimeters\Exercise 1 InchesToCentimeters.csproj" />
   </ItemGroup>
 
 </Project>

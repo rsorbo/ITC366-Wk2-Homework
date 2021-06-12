@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InchesToCentimeters", "InchesToCentimeters\InchesToCentimeters.csproj", "{88376184-FCC0-487B-B3F1-01F95F610C9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise 1 InchesToCentimeters", "InchesToCentimeters\Exercise 1 InchesToCentimeters.csproj", "{88376184-FCC0-487B-B3F1-01F95F610C9E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InchesToCentimetersInteractive", "InchesToCentimetersInteractive\InchesToCentimetersInteractive.csproj", "{8A91AD15-8CDF-4B53-A9F5-0EE2F842292E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise 2 InchesToCentimetersInteractive", "InchesToCentimetersInteractive\Exercise 2 InchesToCentimetersInteractive.csproj", "{8A91AD15-8CDF-4B53-A9F5-0EE2F842292E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FahrenheitToCelsius", "FahrenheitToCelsius\FahrenheitToCelsius.csproj", "{1FFF0332-D307-4709-B7E7-A062B0D25D96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise 3 FahrenheitToCelsius", "FahrenheitToCelsius\Exercise 3 FahrenheitToCelsius.csproj", "{1FFF0332-D307-4709-B7E7-A062B0D25D96}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Planet", "Planet\Planet.csproj", "{C54266E2-C051-4684-BDFF-BC7A98B62127}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise 4 Planet", "Planet\Exercise 4 Planet.csproj", "{C54266E2-C051-4684-BDFF-BC7A98B62127}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 5", "Exercise 5\Exercise 5.csproj", "{BFA1D328-7A48-4F8D-8024-7AD789B812E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise 5", "Exercise 5\Exercise 5.csproj", "{BFA1D328-7A48-4F8D-8024-7AD789B812E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
